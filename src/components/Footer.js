@@ -29,22 +29,22 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.behance.net/whoshriyansh"
-                style={{ color: "white" }}
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <FaBehance />
-              </a>
-            </li>
-            <li className="social-icons">
-              <a
                 href="https://www.linkedin.com/in/whoshriyansh/"
                 style={{ color: "white" }}
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <FaLinkedinIn />
+              </a>
+            </li>
+            <li className="social-icons">
+              <a
+                href="https://www.behance.net/whoshriyansh"
+                style={{ color: "white" }}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <FaBehance />
               </a>
             </li>
             <li className="social-icons">

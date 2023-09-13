@@ -28,7 +28,7 @@ function Projects() {
               title="Admin Dashboard"
               description="This is an Admin Dashboard Pannel that can be used for different purpose like to track the sales and to track the Business Progress, states, Team, People Information and Lists. It has Nivo configue with it and also used Material UI."
               ghLink="https://github.com/whoshriyansh/React-Dashboard"
-              demoLink="https://chatify-49.web.app/"
+              demoLink=""
             />
           </Col>
 

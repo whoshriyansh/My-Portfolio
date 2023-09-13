@@ -27,8 +27,8 @@ function Projects() {
               isBlog={false}
               title="Admin Dashboard"
               description="This is an Admin Dashboard Pannel that can be used for different purpose like to track the sales and to track the Business Progress, states, Team, People Information and Lists. It has Nivo configue with it and also used Material UI."
-              ghLink="https://github.com/whoshriyansh/React-Dashboard"
-              demoLink=""
+              ghLink="https://github.com/whoshriyansh/Admin-Dashboard"
+              demoLink="https://drive.google.com/file/d/1kw17IbHRog4GMYxw7JboCEuqBHTXZy0-/view?usp=sharing"
             />
           </Col>
 
@@ -60,8 +60,8 @@ function Projects() {
               isBlog={false}
               title="Codepen Clone"
               description="This is a Simple codepen clone which is used to write raw HTML, CSS, AND JavaScript. It has codemirror configure with it which made this thing possible. It is a fully functional editor."
-              ghLink="https://github.com/soumyajit4419/Plant_AI"
-              demoLink="https://plant49-ai.herokuapp.com/"
+              ghLink="https://github.com/whoshriyansh/codepen_clone"
+              demoLink="https://drive.google.com/file/d/1J9ceo4NgNmfiBdPNXBcyH2B6hIjF6ZR-/view?usp=sharing"
             />
           </Col>
 
@@ -82,7 +82,7 @@ function Projects() {
               isBlog={false}
               title="Flipping Card"
               description="This is a Simple Responsive netflix Clone made with the help of html and css just to show my Mark-up laguage Skills to you."
-              ghLink="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
+              ghLink="https://github.com/whoshriyansh/Flipping-Card"
               demoLink=""
             />
           </Col>

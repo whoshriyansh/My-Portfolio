@@ -26,8 +26,8 @@ function Projects() {
               imgPath={dashboard}
               isBlog={false}
               title="Admin Dashboard"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
-              ghLink="https://github.com/soumyajit4419/Chatify"
+              description="This is an Admin Dashboard Pannel that can be used for different purpose like to track the sales and to track the Business Progress, states, Team, People Information and Lists. It has Nivo configue with it and also used Material UI."
+              ghLink="https://github.com/whoshriyansh/React-Dashboard"
               demoLink="https://chatify-49.web.app/"
             />
           </Col>
@@ -37,9 +37,9 @@ function Projects() {
               imgPath={ecommerce}
               isBlog={false}
               title="E-Commerce Site"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
-              demoLink="https://blogs.soumya-jit.tech/"
+              description="This is a Fully Functional E-Commerce Site as in parth of Front end with Animation to adding Item to cart and storing that in Local Storage. It has all the cool features like - Hero Section, Featured Product, Highlight Products, Normal Shoes Sale Component, and a Blog Carousal."
+              ghLink="https://github.com/whoshriyansh/E_commerce_site"
+              demoLink="https://e-commerce-site-alpha.vercel.app/"
             />
           </Col>
 
@@ -48,7 +48,7 @@ function Projects() {
               imgPath={youtube}
               isBlog={false}
               title="Youtube Clone"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
+              description="This is the clone of Youtube and It has some Great Fetaures like advance search with real time suggestions, Nested Comments which are better than of Youtube, and also live Chat option where you can send message live while watching the videos."
               ghLink="https://github.com/whoshriyansh/CooTube"
               demoLink="https://coo-tube.vercel.app/"
             />
@@ -59,7 +59,7 @@ function Projects() {
               imgPath={editor}
               isBlog={false}
               title="Codepen Clone"
-              description="Used the plant disease dataset from Kaggle and trained a image classifer model using 'PyTorch' framework using CNN and Transfer Learning with 38 classes of various plant leaves. The model was successfully able to detect diseased and healthy leaves of 14 unique plants. I was able to achieve an accuracy of 98% by using Resnet34 pretrained model."
+              description="This is a Simple codepen clone which is used to write raw HTML, CSS, AND JavaScript. It has codemirror configure with it which made this thing possible. It is a fully functional editor."
               ghLink="https://github.com/soumyajit4419/Plant_AI"
               demoLink="https://plant49-ai.herokuapp.com/"
             />
@@ -70,7 +70,7 @@ function Projects() {
               imgPath={game}
               isBlog={false}
               title="Fighting Game"
-              description="Using 'Natural Launguage Processing' for the detection of suicide-related posts and user's suicide ideation in cyberspace  and thus helping in sucide prevention."
+              description="This is a game purely made with the help of JavaScript and it was the most challanging projects till now because I have used proper JS for the first time while making this Project. It is a Fighting game which has Controls like all the {up, down, right, left} keys for Blue Player and for Red Player it has {a,s,d,w}. HOPE YOU ENJOY THE FIGHT!"
               ghLink="https://github.com/whoshriyansh/Fighting-Game-JS"
               demoLink="https://katanazero.netlify.app/"
             />
@@ -81,8 +81,7 @@ function Projects() {
               imgPath={flipping}
               isBlog={false}
               title="Flipping Card"
-              description="Trained a CNN classifier using 'FER-2013 dataset' with Keras and tensorflow backened. The classifier sucessfully predicted the various types of emotions of human. And the highest accuracy obtained with the model was 60.1%.
-              Then used Open-CV to detect the face in an image and then pass the face to the classifer to predict the emotion of a person."
+              description="This is a Simple Responsive netflix Clone made with the help of html and css just to show my Mark-up laguage Skills to you."
               ghLink="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
               demoLink=""
             />

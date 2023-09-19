@@ -14,6 +14,8 @@ import {
   SiVite,
   SiHtml5,
   SiCss3,
+  SiJquery,
+  SiRedux,
 } from "react-icons/si";
 
 function Techstack() {
@@ -25,6 +27,10 @@ function Techstack() {
       <Col xs={4} md={2} className="tech-icons">
         <DiReact />
       </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiRedux />
+      </Col>
+
       <Col xs={4} md={2} className="tech-icons">
         <DiGit />
       </Col>
@@ -42,6 +48,9 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiCss3 />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiJquery />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiNodejs />

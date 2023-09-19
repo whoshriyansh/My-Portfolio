@@ -7,6 +7,8 @@ import {
   SiFigma,
   SiAdobephotoshop,
   SiAdobeillustrator,
+  SiCanva,
+  SiGithub,
 } from "react-icons/si";
 
 function Toolstack() {
@@ -19,6 +21,9 @@ function Toolstack() {
         <SiVisualstudiocode />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
+        <SiGithub />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
         <SiFigma />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
@@ -29,6 +34,9 @@ function Toolstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiAdobeillustrator />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiCanva />
       </Col>
     </Row>
   );

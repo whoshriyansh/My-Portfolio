@@ -9,22 +9,20 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Shriyansh Lohia </span>
-            from <span className="purple"> Dehradun, India.</span>
-            <br /> I am a final year student pursuing an B.A in Journalism and
-            Mass Communication from Graphic Era Hill University.
+            from <span className="purple"> India.</span>
+            <br /> I'm a Front-end Developer havint expertise in field like
+            <b className="purple"> Javascript, React, and Redux </b>
             <br />
             Additionally, I was working with a Car Rental Start-up in Abu Dhabi,
-            UAE.
+            UAE for the role of UI/UX designer and Front-end Developer.
             <br />
-            <br />I love to Code despite of no IT background I have honed my
-            skills in this Field.
           </p>
           <ul>
             <li className="about-activity">
               <ImPointRight /> Coding
             </li>
             <li className="about-activity">
-              <ImPointRight /> Art
+              <ImPointRight /> Designing
             </li>
             <li className="about-activity">
               <ImPointRight /> Anime
@@ -34,7 +32,7 @@ function AboutCard() {
           <p style={{ color: "rgb(155 126 172)" }}>
             "Never Give-Up until you are forced to."{" "}
           </p>
-          <footer className="blockquote-footer">Shriyansh</footer>
+          {/* <footer className="blockquote-footer"></footer> */}
         </blockquote>
       </Card.Body>
     </Card>

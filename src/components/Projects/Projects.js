@@ -7,7 +7,7 @@ import ecommerce from "../../Assets/Projects/ecommerce.png";
 import youtube from "../../Assets/Projects/youtube.png";
 import editor from "../../Assets/Projects/editor.png";
 import game from "../../Assets/Projects/game.png";
-import flipping from "../../Assets/Projects/flipping.png";
+import todolist from "../../Assets/Projects/todolist.png";
 
 function Projects() {
   return (
@@ -70,7 +70,7 @@ function Projects() {
               imgPath={game}
               isBlog={false}
               title="Fighting Game"
-              description="This is a game purely made with the help of JavaScript and it was the most challanging projects till now because I have used proper JS for the first time while making this Project. It is a Fighting game which has Controls like all the {up, down, right, left} keys for Blue Player and for Red Player it has {a,s,d,w}. HOPE YOU ENJOY THE FIGHT!"
+              description="This is a game purely made with the help of JavaScript and it was the most challanging projects till now because I have used proper JS for the first time while making this Project. It is a Fighting game which has Controls like all the {up, down, right, left} keys for Blue Player and for Red Player it has {a,s,d,w}."
               ghLink="https://github.com/whoshriyansh/Fighting-Game-JS"
               demoLink="https://katanazero.netlify.app/"
             />
@@ -78,12 +78,12 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={flipping}
+              imgPath={todolist}
               isBlog={false}
-              title="Flipping Card"
-              description="This is a Simple Responsive netflix Clone made with the help of html and css just to show my Mark-up laguage Skills to you."
-              ghLink="https://github.com/whoshriyansh/Flipping-Card"
-              demoLink=""
+              title="To-Do List"
+              description="Created a simple Do List application, which helps manage, add, update, and delete tasks efficiently. The entire application was built with the help of the React library, and I'm excited to share the Github and Deployment links with you. Check them out and let me know what you think!"
+              ghLink="https://github.com/whoshriyansh/To_Do_List-React"
+              demoLink="https://to-do-list-react-beryl.vercel.app/"
             />
           </Col>
         </Row>

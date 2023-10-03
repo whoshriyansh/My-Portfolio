@@ -20,7 +20,11 @@ function Home2() {
               <br />
               <br />I am fluent in Fields like
               <i>
-                <b className="purple"> Javascript, React, and Redux </b>
+                <b className="purple"> Javascript, React, </b>
+              </i>
+              and
+              <i>
+                <b className="purple"> Redux </b>
               </i>
               <br />
               <br />

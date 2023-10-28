@@ -10,20 +10,22 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Shriyansh Lohia </span>
             from <span className="purple"> India.</span>
-            <br /> I'm a Front-end Developer havint expertise in field like
-            <b className="purple"> Javascript, React, and Redux </b>
+            <br /> I'm a Full-stack Developer having expertise in field like
+            <b className="purple">
+              {" "}
+              Javascript, React, NodeJS, and much more.{" "}
+            </b>
             <br />
             Additionally, I was working with a Car Rental Start-up in Abu Dhabi,
-            UAE for the role of UI/UX designer and Front-end Developer.
+            UAE for the role of UI/UX designer and done a 2 month Internship as
+            a Front-end Developer in the same Company.
             <br />
           </p>
           <ul>
             <li className="about-activity">
               <ImPointRight /> Coding
             </li>
-            <li className="about-activity">
-              <ImPointRight /> Designing
-            </li>
+
             <li className="about-activity">
               <ImPointRight /> Anime
             </li>

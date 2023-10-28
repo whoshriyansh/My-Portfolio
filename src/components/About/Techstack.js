@@ -16,6 +16,7 @@ import {
   SiCss3,
   SiJquery,
   SiRedux,
+  SiExpress,
 } from "react-icons/si";
 
 function Techstack() {
@@ -30,18 +31,14 @@ function Techstack() {
       <Col xs={4} md={2} className="tech-icons">
         <SiRedux />
       </Col>
-
       <Col xs={4} md={2} className="tech-icons">
-        <DiGit />
+        <DiNodejs />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiVite />
+        <DiMongodb />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiTailwindcss />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiBootstrap />
+        <SiExpress />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiHtml5 />
@@ -53,11 +50,16 @@ function Techstack() {
         <SiJquery />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiNodejs />
+        <DiGit />
       </Col>
-
       <Col xs={4} md={2} className="tech-icons">
-        <DiMongodb />
+        <SiVite />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiTailwindcss />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiBootstrap />
       </Col>
     </Row>
   );

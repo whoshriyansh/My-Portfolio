@@ -18,13 +18,13 @@ function Home2() {
               I fell in love with programming and I think that it is a
               superpower for me to code something...🤷‍♂️
               <br />
-              <br />I am fluent in Fields like
+              <br />I have honed my skills in
               <i>
-                <b className="purple"> Javascript, React, </b>
+                <b className="purple"> Front-end Development and </b>
               </i>
               and
               <i>
-                <b className="purple"> Redux </b>
+                <b className="purple"> Backend Development. </b>
               </i>
               <br />
               <br />
@@ -35,14 +35,15 @@ function Home2() {
               </i>
               <br />
               <br />
-              Whenever possible, I also spend time in the backend field like
-              working with <b className="purple">Node.js</b> and
-              <i>
-                <b className="purple">
-                  {" "}
-                  Database like mongoDB and framework like Express.JS .
-                </b>
-              </i>
+              {/* <b className="purple"> Coffee with me ---</b>{" "}
+              <a
+                href="https://github.com/whoshriyansh"
+                target="_blank"
+                rel="noreferrer"
+                className="icon-colour  home-social-icons"
+              >
+                <AiFillGithub />
+              </a> */}
             </p>
           </Col>
           <Col md={4} className="myAvtar">

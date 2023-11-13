@@ -44,7 +44,7 @@
                     <mask id="mask-8" fill="white">
                         <use xlink:href="#path-7"></use>
                     </mask>
-                    <use id="Hoodie" fill="#B7C1DB" fill-rule="evenodd" xlink:href="#path-7"></use>
+                    <use id="Hoodie" fill="#1e1e1e" fill-rule="evenodd" xlink:href="#path-7"></use>
                     <g id="Color/Palette/Slate" mask="url(#mask-8)" fill="#293347" fill-rule="evenodd">
                         <rect id="🖍Color" x="0" y="0" width="238.490722" height="99"></rect>
                     </g>

@@ -100,17 +100,17 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                href="https://medium.com/@whoshriyansh"
+                href="https://www.linkedin.com/in/whoshriyansh/"
                 target="_blank"
                 rel="noreferrer"
               >
-                <ImBlog style={{ marginBottom: "2px" }} /> Blogs
+                <ImBlog style={{ marginBottom: "2px" }} /> Linkedin
               </Nav.Link>
             </Nav.Item>
 
             <Nav.Item className="fork-btn">
               <Button
-                href="https://github.com/whoshriyansh/My-Portfolio"
+                href="https://github.com/whoshriyansh"
                 target="_blank"
                 className="fork-btn-inner"
               >

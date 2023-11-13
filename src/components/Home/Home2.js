@@ -15,35 +15,13 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I think that it is a
-              superpower for me to code something...🤷‍♂️
-              <br />
-              <br />I have honed my skills in
-              <i>
-                <b className="purple"> Front-end Development and </b>
-              </i>
-              and
-              <i>
-                <b className="purple"> Backend Development. </b>
-              </i>
+              I'm a Full Stack Developer who's all about making awesome things
+              happen in the digital world. It all started with my fascination
+              for coding and the thrill of never-ending learning. Now, I find
+              myself in the exciting realm where development meets DevOps,
+              working to make technology work smarter, not harder.
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
-              <i>
-                <b className="purple">Web Technologies and Functionality </b>{" "}
-                and would love to try New Tecnologies.
-              </i>
-              <br />
-              <br />
-              {/* <b className="purple"> Coffee with me ---</b>{" "}
-              <a
-                href="https://github.com/whoshriyansh"
-                target="_blank"
-                rel="noreferrer"
-                className="icon-colour  home-social-icons"
-              >
-                <AiFillGithub />
-              </a> */}
             </p>
           </Col>
           <Col md={4} className="myAvtar">
